@@ -1,6 +1,3 @@
-Absolutely! Here's your **complete and properly ordered roadmap to master ORM in Java**, covering **everything from JDBC to advanced JPA/Hibernate internals**. This includes **all ORM-related technologies, concepts, patterns, and practical steps**.
-
----
 
 # ✅ COMPLETE ORM MASTER ROADMAP (Spring + Hibernate + Java)
 
@@ -265,4 +262,3 @@ Absolutely! Here's your **complete and properly ordered roadmap to master ORM in
 17. ORM Tools & Ecosystem
 18. Best Practices
 ```
----
